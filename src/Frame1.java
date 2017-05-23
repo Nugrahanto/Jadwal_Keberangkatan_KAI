@@ -200,189 +200,188 @@ public class Frame1 extends javax.swing.JFrame {
     private void jComboBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox1ActionPerformed
         // TODO add your handling code here:
         if (jComboBox1.getSelectedItem().equals("-- Pilih Jurusan --")){
-             jKereta1.setText("");
-             jDeparture1.setText("");
-             jArrival1.setText("");
-             jKelas1.setText("");
-             
-             jKereta2.setText("");
-             jDeparture2.setText("");
-             jArrival2.setText("");
-             jKelas2.setText("");
-             
-             jKereta3.setText("");
-             jDeparture3.setText("");
-             jArrival3.setText("");
-             jKelas3.setText("");
-             
-             jKereta4.setText("");
-             jDeparture4.setText("");
-             jArrival4.setText("");
-             jKelas4.setText("");
-             
-             jKereta5.setText("");
-             jDeparture5.setText("");
-             jArrival5.setText("");
-             jKelas5.setText("");
+            jKereta1.setText("");
+            jDeparture1.setText("");
+            jArrival1.setText("");
+            jKelas1.setText("");
+
+            jKereta2.setText("");
+            jDeparture2.setText("");
+            jArrival2.setText("");
+            jKelas2.setText("");
+
+            jKereta3.setText("");
+            jDeparture3.setText("");
+            jArrival3.setText("");
+            jKelas3.setText("");
+
+            jKereta4.setText("");
+            jDeparture4.setText("");
+            jArrival4.setText("");
+            jKelas4.setText("");
+
+            jKereta5.setText("");
+            jDeparture5.setText("");
+            jArrival5.setText("");
+            jKelas5.setText("");
         }else
         if(jComboBox1.getSelectedItem().equals("Malang - Blitar")){
-             jKereta1.setText("KA 439 / Penataran ");
-             jDeparture1.setText("Malang Kotabaru / 07.24");
-             jArrival1.setText("Blitar / 10.28");
-             jKelas1.setText("Ekonomi");
-             
-             jKereta2.setText("KA 441 / Penataran ");
-             jDeparture2.setText("Malang Kotabaru / 11.10");
-             jArrival2.setText("Blitar / 13.25");
-             jKelas2.setText("Ekonomi");
-             
-             jKereta3.setText("KA 443 / Penataran ");
-             jDeparture3.setText("Malang Kotabaru / 14.57 ");
-             jArrival3.setText("Blitar / 17.34");
-             jKelas3.setText("Ekonomi");
-             
-             jKereta4.setText("KA 447 / Penataran ");
-             jDeparture4.setText("Malang Kotabaru / 19.06");
-             jArrival4.setText("Blitar / 21.23");
-             jKelas4.setText("Ekonomi");
-             
-             jKereta5.setText("");
-             jDeparture5.setText("");
-             jArrival5.setText("");
-             jKelas5.setText("");
-         }else
+            jKereta1.setText("KA 439 / Penataran ");
+            jDeparture1.setText("Malang Kotabaru / 07.24");
+            jArrival1.setText("Blitar / 10.28");
+            jKelas1.setText("Ekonomi");
+
+            jKereta2.setText("KA 441 / Penataran ");
+            jDeparture2.setText("Malang Kotabaru / 11.10");
+            jArrival2.setText("Blitar / 13.25");
+            jKelas2.setText("Ekonomi");
+
+            jKereta3.setText("KA 443 / Penataran ");
+            jDeparture3.setText("Malang Kotabaru / 14.57 ");
+            jArrival3.setText("Blitar / 17.34");
+            jKelas3.setText("Ekonomi");
+
+            jKereta4.setText("KA 447 / Penataran ");
+            jDeparture4.setText("Malang Kotabaru / 19.06");
+            jArrival4.setText("Blitar / 21.23");
+            jKelas4.setText("Ekonomi");
+
+            jKereta5.setText("");
+            jDeparture5.setText("");
+            jArrival5.setText("");
+            jKelas5.setText("");
+        }else
         if(jComboBox1.getSelectedItem().equals("Malang - Surabaya ")){
-             jKereta1.setText("KA 439 / Penataran ");
-             jDeparture1.setText("Malang Kotabaru / 37.20");
-             jArrival1.setText("Surabaya Gubeng / 05.56");
-             jKelas1.setText("Ekonomi");
-             
-             jKereta2.setText("KA 440 / Penataran ");
-             jDeparture2.setText("Malang Kotabaru / 06.30");
-             jArrival2.setText("Surabaya Gubeng / 09.44");
-             jKelas2.setText("Ekonomi");
-             
-             jKereta3.setText("KA 442 / Penataran ");
-             jDeparture3.setText("Malang Kotabaru / 12.00 ");
-             jArrival3.setText("Surabaya Gubeng / 14.54");
-             jKelas3.setText("Ekonomi");
-             
-             jKereta4.setText("KA 444 / Penataran ");
-             jDeparture4.setText("Malang Kotabaru / 16.59");
-             jArrival4.setText("Surabaya Gubeng / 19.46");
-             jKelas4.setText("Ekonomi");
-             
-             jKereta5.setText("KA 446 / Penataran ");
-             jDeparture5.setText("Malang Kotabaru / 19.58");
-             jArrival5.setText("Surabaya Gubeng / 22.41");
-             jKelas5.setText("Ekonomi");
-         }else
+            jKereta1.setText("KA 439 / Penataran ");
+            jDeparture1.setText("Malang Kotabaru / 37.20");
+            jArrival1.setText("Surabaya Gubeng / 05.56");
+            jKelas1.setText("Ekonomi");
+
+            jKereta2.setText("KA 440 / Penataran ");
+            jDeparture2.setText("Malang Kotabaru / 06.30");
+            jArrival2.setText("Surabaya Gubeng / 09.44");
+            jKelas2.setText("Ekonomi");
+
+            jKereta3.setText("KA 442 / Penataran ");
+            jDeparture3.setText("Malang Kotabaru / 12.00 ");
+            jArrival3.setText("Surabaya Gubeng / 14.54");
+            jKelas3.setText("Ekonomi");
+
+            jKereta4.setText("KA 444 / Penataran ");
+            jDeparture4.setText("Malang Kotabaru / 16.59");
+            jArrival4.setText("Surabaya Gubeng / 19.46");
+            jKelas4.setText("Ekonomi");
+
+            jKereta5.setText("KA 446 / Penataran ");
+            jDeparture5.setText("Malang Kotabaru / 19.58");
+            jArrival5.setText("Surabaya Gubeng / 22.41");
+            jKelas5.setText("Ekonomi");
+        }else
         if (jComboBox1.getSelectedItem().equals("Malang - Banyuwangi ")){
-             jKereta1.setText("KA. Tawang Alun");
-             jDeparture1.setText("Malang Kotabaru / 14.55");
-             jArrival1.setText("Banyuwangi / 22.27");
-             jKelas1.setText("Ekonomi AC");
-             
-             jKereta2.setText("");
-             jDeparture2.setText("");
-             jArrival2.setText("");
-             jKelas2.setText("");
-             
-             jKereta3.setText("");
-             jDeparture3.setText("");
-             jArrival3.setText("");
-             jKelas3.setText("");
-             
-             jKereta4.setText("");
-             jDeparture4.setText("");
-             jArrival4.setText("");
-             jKelas4.setText("");
-             
-             jKereta5.setText("");
-             jDeparture5.setText("");
-             jArrival5.setText("");
-             jKelas5.setText("");
+            jKereta1.setText("KA. Tawang Alun");
+            jDeparture1.setText("Malang Kotabaru / 14.55");
+            jArrival1.setText("Banyuwangi / 22.27");
+            jKelas1.setText("Ekonomi AC");
+
+            jKereta2.setText("");
+            jDeparture2.setText("");
+            jArrival2.setText("");
+            jKelas2.setText("");
+
+            jKereta3.setText("");
+            jDeparture3.setText("");
+            jArrival3.setText("");
+            jKelas3.setText("");
+
+            jKereta4.setText("");
+            jDeparture4.setText("");
+            jArrival4.setText("");
+            jKelas4.setText("");
+
+            jKereta5.setText("");
+            jDeparture5.setText("");
+            jArrival5.setText("");
+            jKelas5.setText("");
         }else
         if (jComboBox1.getSelectedItem().equals("Malang - Yogyakarta ")){
-             jKereta1.setText("KA. Malioboro Ekspres");
-             jDeparture1.setText("Malang Kotabaru / 08.00");
-             jArrival1.setText("Yogyakarta Tugu / 15.06");
-             jKelas1.setText("Ekonomi AC &");
-             
-             jKereta2.setText("");
-             jDeparture2.setText("");
-             jArrival2.setText("");
-             jKelas2.setText("Eksekutif");
-             
-             jKereta3.setText("");
-             jDeparture3.setText("");
-             jArrival3.setText("");
-             jKelas3.setText("");
-             
-             jKereta4.setText("");
-             jDeparture4.setText("");
-             jArrival4.setText("");
-             jKelas4.setText("");
-             
-             jKereta5.setText("");
-             jDeparture5.setText("");
-             jArrival5.setText("");
-             jKelas5.setText("");
+            jKereta1.setText("KA. Malioboro Ekspres");
+            jDeparture1.setText("Malang Kotabaru / 08.00");
+            jArrival1.setText("Yogyakarta Tugu / 15.06");
+            jKelas1.setText("Ekonomi AC &");
+
+            jKereta2.setText("");
+            jDeparture2.setText("");
+            jArrival2.setText("");
+            jKelas2.setText("Eksekutif");
+
+            jKereta3.setText("");
+            jDeparture3.setText("");
+            jArrival3.setText("");
+            jKelas3.setText("");
+
+            jKereta4.setText("");
+            jDeparture4.setText("");
+            jArrival4.setText("");
+            jKelas4.setText("");
+
+            jKereta5.setText("");
+            jDeparture5.setText("");
+            jArrival5.setText("");
+            jKelas5.setText("");
         }else
         if (jComboBox1.getSelectedItem().equals("Malang - Bandung ")){
-             jKereta1.setText("KA. Malabar");
-             jDeparture1.setText("Malang Kotabaru / 14.35");
-             jArrival1.setText("Bandung / 06.04");
-             jKelas1.setText("Ekonomi AC &");
-             
-             jKereta2.setText("");
-             jDeparture2.setText("");
-             jArrival2.setText("");
-             jKelas2.setText("Eksekutif &");
-             
-             jKereta3.setText("");
-             jDeparture3.setText("");
-             jArrival3.setText("");
-             jKelas3.setText("Bisnis");
-             
-             jKereta4.setText("");
-             jDeparture4.setText("");
-             jArrival4.setText("");
-             jKelas4.setText("");
-             
-             jKereta5.setText("");
-             jDeparture5.setText("");
-             jArrival5.setText("");
-             jKelas5.setText("");
+            jKereta1.setText("KA. Malabar");
+            jDeparture1.setText("Malang Kotabaru / 14.35");
+            jArrival1.setText("Bandung / 06.04");
+            jKelas1.setText("Ekonomi AC &");
+
+            jKereta2.setText("");
+            jDeparture2.setText("");
+            jArrival2.setText("");
+            jKelas2.setText("Eksekutif &");
+
+            jKereta3.setText("");
+            jDeparture3.setText("");
+            jArrival3.setText("");
+            jKelas3.setText("Bisnis");
+
+            jKereta4.setText("");
+            jDeparture4.setText("");
+            jArrival4.setText("");
+            jKelas4.setText("");
+
+            jKereta5.setText("");
+            jDeparture5.setText("");
+            jArrival5.setText("");
+            jKelas5.setText("");
         }else
         if (jComboBox1.getSelectedItem().equals("Malang - Jakarta ")){
-             jKereta1.setText("KA. Majapahit");
-             jDeparture1.setText("Malang Kotabaru / 12.10");
-             jArrival1.setText("Pasarsenen / 03.16");
-             jKelas1.setText("Ekonomi AC");
-             
-             jKereta2.setText("KA. Matarmaja");
-             jDeparture2.setText("Malang Kotabaru / 17.00");
-             jArrival2.setText("Pasarsenen / 09.21");
-             jKelas2.setText("Ekonomi AC");
-             
-             jKereta3.setText("KA. Api Jayabaya");
-             jDeparture3.setText("Malang Kotabaru / 10.45");
-             jArrival3.setText("Pasarsenen / 00.23");
-             jKelas3.setText("Ekonomi AC");
-             
-             jKereta4.setText("KA. Gajayana");
-             jDeparture4.setText("Malang Kotabaru / 13.40");
-             jArrival4.setText("Jakarta Kota / 04.45");
-             jKelas4.setText("Eksekutif");
-             
-             jKereta5.setText("");
-             jDeparture5.setText("");
-             jArrival5.setText("");
-             jKelas5.setText("");
+            jKereta1.setText("KA. Majapahit");
+            jDeparture1.setText("Malang Kotabaru / 12.10");
+            jArrival1.setText("Pasarsenen / 03.16");
+            jKelas1.setText("Ekonomi AC");
+
+            jKereta2.setText("KA. Matarmaja");
+            jDeparture2.setText("Malang Kotabaru / 17.00");
+            jArrival2.setText("Pasarsenen / 09.21");
+            jKelas2.setText("Ekonomi AC");
+
+            jKereta3.setText("KA. Api Jayabaya");
+            jDeparture3.setText("Malang Kotabaru / 10.45");
+            jArrival3.setText("Pasarsenen / 00.23");
+            jKelas3.setText("Ekonomi AC");
+
+            jKereta4.setText("KA. Gajayana");
+            jDeparture4.setText("Malang Kotabaru / 13.40");
+            jArrival4.setText("Jakarta Kota / 04.45");
+            jKelas4.setText("Eksekutif");
+
+            jKereta5.setText("");
+            jDeparture5.setText("");
+            jArrival5.setText("");
+            jKelas5.setText("");
         }
-        
-        
+
     }//GEN-LAST:event_jComboBox1ActionPerformed
 
     /**
